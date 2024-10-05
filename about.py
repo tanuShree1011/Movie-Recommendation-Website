@@ -12,6 +12,6 @@ def app():
     st.write('Happy watching! ')
     st.write('Email: moviemap@gmail.com')
     st.write('Contact:+91123456788')
-    st.write('Website: moviemap.streamlit.app')
+    st.write('Website: moviemap.streamlit.app/')
     st.write('Instagram: @movie_map')
 
